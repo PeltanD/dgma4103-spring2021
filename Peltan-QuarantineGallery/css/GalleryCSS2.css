@@ -1,11 +1,11 @@
 body{
   font-family: sans-serif;
-  background-color: rgb(77, 15, 32);
+  background-color: #67312e;
   text-align: center;
-  color: rgb(145, 152, 217);
+  color: #c88885;
 }
 a:link,a:visited{
-  color: rgb(145, 152, 217);
+  color: #c88885;
 
 }
 nav ul li a:hover{
@@ -13,7 +13,7 @@ nav ul li a:hover{
 }
 ul li{display: inline;}
 header{
-  background-color: green;
+  background-color: #853f3c;
 }
 header p{
   font-family: serif;
@@ -22,7 +22,7 @@ header p{
 ul li{display: inline;}
 nav{
   font-size: 19px;
-  background-color: rgb(48, 7, 19);
+  background-color: #853f3c;
 }
 footer{
   position:absolute;
@@ -30,16 +30,16 @@ footer{
   left: 0px;
   right:0px;
   height: 40px;
-  background-color: rgb(48, 7, 19);
+  background-color: #853f3c;
 }
 section{
   margin-left: 17%;
   margin-right: 17%;
 }
 img:hover{
-  background-color: rgb(145, 152, 217, 0.3);
+  background-color: #b6605c30;
   border-radius: 20%;
-	border: 7px solid rgb(145, 152, 217);
-	box-shadow: 12px 12px 20px 0px rgb(145, 152, 217),
-		-12px -12px 20px 0px rgb(145, 152, 217));
+	border: 7px solid #b6605c);
+	box-shadow: 20px 20px 32px 0px #b6605c,
+		-20px -20px 32px 0px #b6605c);
 }
