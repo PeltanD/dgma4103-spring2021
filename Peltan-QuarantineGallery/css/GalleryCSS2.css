@@ -33,8 +33,8 @@ section{
 }
 img{
   border-radius: 20%;
-  background-color:
-	border: 7px solid rgb(174, 145, 217);
+  background-color: rgb(174, 145, 217);
+	border: 7px solid rgb(145, 152, 217);
 	box-shadow: 12px 12px 20px 0px rgb(145, 152, 217),
 		-12px -12px 20px 0px rgb(145, 152, 217));
 }
