@@ -1,14 +1,15 @@
 body{
   font-family: monospace;
-  background-color: #0d1a26;
+  background-color: #172531;
   text-align: center;
-  color: #bfbfbf;
+  color: #f0f4f8;
 }
 a:link,a:visited{
-  color: #bfbfbf;
+  color: #f0f4f8;
 }
 nav ul li a:hover{
-  background-color: black;
+  color: #203344
+  background-color: #9bb7d0;
 }
 ul li{display: inline;}
 header p{
@@ -30,8 +31,9 @@ section{
   margin-right: 17%;
 }
 img{
+  background-color: #cddbe7;
   border-radius: 15%;
-	border: 7px solid Gray;
-	box-shadow: 20px 20px 32px 0px rgb(38,21,28),
-		-20px -20px 32px 0px rgb(38,21,28);
+	border: 7px solid #cddbe7;
+	box-shadow: 12px 12px 20px 0px #cddbe7,
+		-12px -12px 32px 0px #cddbe7);
 }
