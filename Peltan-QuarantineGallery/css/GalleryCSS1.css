@@ -8,7 +8,7 @@ a:link,a:visited{
   color: #f0f4f8;
 }
 nav ul li a:hover{
-  color: #203344
+  color: #203344;
   background-color: #9bb7d0;
 }
 ul li{display: inline;}
