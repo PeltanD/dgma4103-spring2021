@@ -17,6 +17,7 @@ header p{
 ul li{display: inline;}
 nav{
   font-size: 19px;
+  background-color: pink;
 }
 footer{
   position:absolute;
@@ -33,5 +34,5 @@ img{
   border-radius: 15%;
 	border: 7px solid Gray;
 	box-shadow: 12px 12px 20px 0px Gray,
-		-12px -12px 20px 0px Gray);
+		-12px -12px 32px 0px Gray);
 }
