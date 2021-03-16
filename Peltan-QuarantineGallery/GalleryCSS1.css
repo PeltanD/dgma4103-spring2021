@@ -1,0 +1,37 @@
+body{
+  font-family: monospace;
+  background-color: #0d1a26;
+  text-align: center;
+  color: #bfbfbf;
+}
+a:link,a:visited{
+  color: #bfbfbf;
+}
+nav ul li a:hover{
+  background-color: black;
+}
+ul li{display: inline;}
+header p{
+  font-size: 24px;
+}
+ul li{display: inline;}
+nav{
+  font-size: 19px;
+}
+footer{
+  position:absolute;
+  bottom: 0px;
+  left: 0px;
+  right:0px;
+  height: 40px;
+}
+section{
+  margin-left: 17%;
+  margin-right: 17%;
+}
+img{
+  border-radius: 15%;
+	border: 7px solid Gray;
+	box-shadow: 12px 12px 20px 0px Gray,
+		-12px -12px 20px 0px Gray);
+}
