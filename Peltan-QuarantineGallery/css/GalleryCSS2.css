@@ -12,7 +12,7 @@ a:link,a:visited{
 
 }
 nav ul li a:hover{
-  background-color: black;
+  text-shadow: 2px 2px #f9f3f3;
 }
 ul li{display: inline;}
 header{
@@ -25,7 +25,7 @@ header p{
 ul li{display: inline;}
 nav{
   font-size: 19px;
-  background-color: #67312e;
+  background-color: #4a2321;
 }
 footer{
   position:absolute;
