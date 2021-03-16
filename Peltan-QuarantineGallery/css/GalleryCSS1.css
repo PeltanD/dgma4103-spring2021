@@ -2,10 +2,10 @@ body{
   font-family: monospace;
   background-color: #172531;
   text-align: center;
-  color: #f0f4f8;
+  color: #6993b8;
 }
 a:link,a:visited{
-  color: #f0f4f8;
+  color: #6993b8;
 }
 nav ul li a:hover{
   color: #203344;
@@ -18,7 +18,6 @@ header p{
 ul li{display: inline;}
 nav{
   font-size: 19px;
-  background-color: green;
 }
 footer{
   position:absolute;
