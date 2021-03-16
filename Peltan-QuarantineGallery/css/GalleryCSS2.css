@@ -22,7 +22,7 @@ header p{
 ul li{display: inline;}
 nav{
   font-size: 19px;
-  background-color: #853f3c;
+  background-color: #67312e;
 }
 footer{
   position:absolute;
@@ -37,7 +37,7 @@ section{
   margin-right: 17%;
 }
 img:hover{
-  background-color: #b6605c30;
+  background-color: #b6605c80;
   border-radius: 20%;
 	border: 7px solid #b6605c);
 	box-shadow: 20px 20px 32px 0px #b6605c,
