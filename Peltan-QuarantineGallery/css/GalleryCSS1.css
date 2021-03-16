@@ -2,7 +2,7 @@ body{
   font-family: monospace;
   background-color: #172531;
   text-align: center;
-  color: #6993b8;
+  color: #cddbe7;
 }
 a:link,a:visited{
   color: #6993b8;
@@ -31,9 +31,7 @@ section{
   margin-right: 17%;
 }
 img{
-  background-color: #cddbe7;
+  background-color: #6993b8;
   border-radius: 15%;
-	border: 7px solid #cddbe7;
-	box-shadow: 12px 12px 20px 0px #cddbe7,
-		-12px -12px 32px 0px #cddbe7);
+	border: 7px solid #6993b8;
 }
