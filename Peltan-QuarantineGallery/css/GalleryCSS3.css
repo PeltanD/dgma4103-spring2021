@@ -1,8 +1,16 @@
+html{
+   min-height: 100%;
+   min-width:100%;
+}
 body{
   font-family: sans-serif;
-   background-image: linear-gradient(to bottom right, red, yellow);
+  background-image: linear-gradient(to bottom, #362e4a, #6b5b95);
   text-align: center;
   color: #e1ddea;
+  transition: background-image 2s;
+}
+body:hover{
+  background-image: linear-gradient(to bottom, #6b5b95, #362e4a);
 }
 a{
   text-decoration: none;
