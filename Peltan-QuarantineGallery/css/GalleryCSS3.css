@@ -7,14 +7,14 @@ body{
   background-image: linear-gradient(to bottom, #362e4a, #6b5b95,
 #c3bcd6);
   text-align: center;
-  color: #e1ddea;
+  color: #f6f5f9;
 }
 a{
   text-decoration: none;
     transition: text-shadow .3s;
 }
 a:link,a:visited{
-  color: #e1ddea;
+  color: #f6f5f9;
 }
 nav ul li a:hover{
   text-shadow: -10px -10px #362e4a;
@@ -30,14 +30,6 @@ header p{
   font-size: 24px;
 }
 
-footer{
-  position:absolute;
-  bottom: 0px;
-  left: 0px;
-  right:0px;
-  height: 40px;
-  color: #362e4a;
-}
 section{
   margin-left: 17%;
   margin-right: 17%;
@@ -46,16 +38,25 @@ img{
 	transition: background-color .5s, box-shadow 1s;
   max-width: 700px; max-height: 700px;
 }
-#FB{
-  text-align: center;
-  font-size: 17px;
-}
+
 figcaption{
   font-size: 19px;
 }
-td a img:hover{
+figure{
+	 background-color: #362e4a4f;
+     border-radius: 10%;
+     font-weight: bold;
+}
+img:hover{
   background-color: #362e4a4f;
   border-radius: 10%;
 	box-shadow: 10px 10px 12px 0px #6b5b95,
 		-10px -10px 12px 0px #6b5b95;
+}
+#FB{
+  text-align: center;
+  font-size: 17px;
+}
+footer{
+  color: #362e4a;
 }
