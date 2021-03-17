@@ -30,16 +30,21 @@ nav{
   background-color: #4a2321;
 }
 footer{
-  position:absolute;
-  bottom: 0px;
-  left: 0px;
-  right:0px;
-  height: 40px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
   background-color: #853f3c;
 }
 section{
   margin-left: 17%;
   margin-right: 17%;
+}
+figure{
+  background-color: #b6605c4f;
+  border-radius: 20%;
+  border: 7px solid #b6605c;
 }
 td a img:hover{
   background-color: #b6605c4f;

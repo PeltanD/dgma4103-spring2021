@@ -19,11 +19,11 @@ nav{
   font-size: 19px;
 }
 footer{
-  position:absolute;
-  bottom: 0px;
-  left: 0px;
-  right:0px;
-  height: 40px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 section{
   margin-left: 17%;
