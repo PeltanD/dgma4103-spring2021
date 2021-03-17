@@ -1,7 +1,7 @@
 body{
   font-family: monospace;
   background-color: #172531;
-  text-align: center;
+  text-align: left;
   color: #cddbe7;
 }
 a:link,a:visited{
@@ -12,18 +12,21 @@ nav ul li a:hover{
   background-color: #9bb7d0;
 }
 ul li{display: inline;}
+header{
+  text-align: left;
+}
 header p{
-  font-size: 24px;
+  font-size: 20px;
 }
 nav{
   font-size: 19px;
 }
 footer{
-  position:absolute;
-  bottom: 0px;
-  left: 0px;
-  right:0px;
-  height: 40px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: left;
 }
 section{
   margin-left: 17%;
