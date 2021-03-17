@@ -1,19 +1,23 @@
 body{
   font-family: sans-serif;
-  background-color: #67312e;
+  background-color: #403759;
   text-align: center;
-  color: #c88885;
+  color: #e1ddea;
 }
 a{
   text-decoration: none;
+    transition: text-shadow 2s;
 }
 a:link,a:visited{
-  color: #c88885;
+  color: #e1ddea;
 }
 nav ul li a:hover{
-  text-shadow: 2px 2px #f9f3f3;
+  text-shadow: 2px 2px #362e4a;
 }
-ul li{display: inline;}
+ul li{
+  display: inline;
+  padding: 10px;
+}
 header{
   background-color: #853f3c;
 }
