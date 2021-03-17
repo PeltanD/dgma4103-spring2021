@@ -20,7 +20,7 @@ a:link,a:visited{
   color: #e1ddea;
 }
 nav ul li a:hover{
-  text-shadow: 2px 2px #362e4a;
+  text-shadow: 5px 5px #362e4a;
 }
 ul li{
   display: inline;
