@@ -6,6 +6,7 @@ body{
 }
 a{
   text-decoration: none;
+  list-style-type: circle;
 }
 a:link,a:visited{
   color: #c88885;
