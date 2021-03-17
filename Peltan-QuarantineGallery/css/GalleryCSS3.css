@@ -38,14 +38,14 @@ img{
 	transition: background-color .5s, box-shadow 1s;
   max-width: 700px; max-height: 700px;
 }
-
 figcaption{
   font-size: 19px;
 }
 figure{
 	 background-color: #362e4a4f;
-     border-radius: 10%;
-     font-weight: bold;
+   border-radius: 10%;
+   font-weight: bold;
+   overflow:hidden;
 }
 a img:hover{
   background-color: #362e4a4f;
@@ -59,4 +59,9 @@ a img:hover{
 }
 footer{
   color: #362e4a;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
