@@ -41,7 +41,7 @@ section{
   margin-left: 17%;
   margin-right: 17%;
 }
-img:hover{
+td a img:hover{
   background-color: #b6605c4f;
   border-radius: 20%;
 	border: 7px solid #b6605c;

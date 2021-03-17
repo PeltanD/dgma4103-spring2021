@@ -53,7 +53,7 @@ img{
 figcaption{
   font-size: 19px;
 }
-img:hover{
+td a img:hover{
   background-color: #362e4a4f;
   border-radius: 10%;
 	box-shadow: 10px 10px 12px 0px #6b5b95,
