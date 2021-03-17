@@ -44,6 +44,14 @@ section{
 }
 img{
 	transition: background-color .5s, box-shadow 1s;
+  max-width: 700px; max-height: 700px;
+}
+#FB{
+  text-align: center;
+  font-size: 17px;
+}
+figcaption{
+  font-size: 19px;
 }
 img:hover{
   background-color: #362e4a4f;

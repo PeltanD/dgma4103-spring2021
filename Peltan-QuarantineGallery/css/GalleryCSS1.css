@@ -33,4 +33,12 @@ img{
   background-color: #6993b8;
   border-radius: 15%;
 	border: 7px solid #6993b8;
+  max-width: 700px; max-height: 700px;
+}
+#FB{
+  text-align: center;
+  font-size: 17px;
+}
+figcaption{
+  font-size: 19px;
 }
